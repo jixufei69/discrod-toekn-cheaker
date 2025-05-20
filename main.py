@@ -1,9 +1,9 @@
-
+#buy cheap discord token htts://manyaccs.com
 import requests
 import json
 import time
 import itertools
-
+s://manyaccs.com
 # 从文件中加载 token
 def load_tokens(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
